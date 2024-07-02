@@ -31,6 +31,11 @@ To install the Asset Mart project on your local machine, follow these steps:
 
 3. **Install Dependencies**: Install the required dependencies for both the client and server:
    ```
+   ## for client
+   npm install
+
+   ## for server
+   cd ../server
    npm install
    ```
 
